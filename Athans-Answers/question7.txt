@@ -1,0 +1,4 @@
+Answer:B & C
+
+The public keyword may precede the class keyword as this identifies the access modifier of the class.
+The static keyword may precede the class keyword to identify wheter the class is static or non-static.
